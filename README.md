@@ -1,3 +1,23 @@
+BIenvenido a mi perfil Github.
+
+FullStack Developer, apasionado por el conocimiento.
+
+¿Que hago?
+Actualmente me enfoco en proyectos propios, en donde pongo en practica mis conocimientos y nuevas tecnologias.
+
+¿Que tecnologias uso?
+las principales tecnologias que manejo son:
+
+JavaScript
+React.js
+Redux
+Node.js
+Express.js
+Sequelize
+PostgreSQL
+con ganas de sumar muchas mas!
+
+
 - 👋 Hi, I’m @Juancruz0405
 - 👀 I’m interested in development
 - 🌱 I’m currently learning web programming
